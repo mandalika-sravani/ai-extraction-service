@@ -1,9 +1,0 @@
-🚀 URGENT: Senior Python Developer at Nimbus Analytics
-
-Nimbus Analytics is hiring a permanent Senior Python Developer for our Hyderabad office
-(hybrid, 3 days onsite). Salary: 28-35 LPA.
-
-You'll need 5+ years of experience with Python, FastAPI and PostgreSQL. Experience with
-Docker and AWS is a plus. B.Tech in CS or equivalent.
-
-Apply by 15 November 2026.
